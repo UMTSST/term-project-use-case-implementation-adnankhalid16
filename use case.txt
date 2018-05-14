@@ -1,0 +1,6 @@
+Use case:Saving data of traffic congetion in file
+
+Actor: user,input system 
+Data: user input
+Stimulus:Entering congetion data in file
+Responce: saving data in file
