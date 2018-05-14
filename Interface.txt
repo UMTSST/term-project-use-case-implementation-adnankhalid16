@@ -1,0 +1,19 @@
+Our communication interface will be a "File" in which we shall store our data related to traffic congestion and we shall use this file to retrieve data from the file on user demand.
+
+
+
+Specifications
+
+There will be a separate file for every specific location
+
+The file will have the data stored in the form of strings
+
+Format: Time|Congestion Intensity
+
+Time will be stored in 24 hour format 
+
+Congestion intensity will be the number from 0-10 
+
+
+
+The pipes will be used to separate the fields. The format in which data is saved in file is mentioned above
